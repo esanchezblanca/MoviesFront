@@ -52,7 +52,7 @@ class MovieList extends Component {
 
     render() {
         return (
-            <div>
+            <div className="globalDiv">
                 <div className="pageBtn">
                     <button onClick={() => this.pageBack()}>Atras</button>
                     <button onClick={() => this.pageForward()}>Siguiente</button>
