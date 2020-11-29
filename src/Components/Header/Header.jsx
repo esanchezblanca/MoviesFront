@@ -1,18 +1,24 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
 import './Header.css';
-import logo from '../img/logohdr.png';
+
 
 
 //creamos el header para todas las páginas
-class Header extends Component{
-    render(){
-        return(
-            <div>
-                HEADER
+const Header = () => {
+    return (
+        <header className="header">
+           
+            
+            <p className="headerTitle">Popular Movies Database</p>
+            <div className="navigate">
+                <NavLink to="/home">Home</NavLink>
+                <NavLink to="/populares">Populares</NavLink>
+              
             </div>
-        )
-    }
+        </header>
+    )
+
 }
 
 export default Header;

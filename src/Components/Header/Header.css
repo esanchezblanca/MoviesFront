@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #d4a53f;
+}
+
+
+
+.headerTitle{
+    color: #051322;
+    position: absolute;
+    margin-left: 45%;
+    font-weight: 900;
+}
+
+
+.active {
+    background-color: rgb(0, 46, 83);
+}
+
+.header a {
+    all: unset;
+    color: black;
+    padding: 1em;
+    transition: all 0.5s;
+}
+
+.header a:hover {
+    color: black;
+    cursor: pointer;
+    background-color: #9b7522 ;
+    border-radius: 25%;
+}
+
+.navigate{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    left: 88%;
+
+}

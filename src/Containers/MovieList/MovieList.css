@@ -1,0 +1,12 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 10em;
+}
+
+.pageBtn{
+    display: flex;
+    position: relative;
+    left: 90%;
+    border-radius: 15%;
+}
