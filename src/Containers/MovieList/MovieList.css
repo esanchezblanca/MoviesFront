@@ -9,4 +9,11 @@
     position: relative;
     left: 90%;
     border-radius: 15%;
+    margin-bottom: 3em;
+}
+
+.detailed{
+    display: flex;
+    position: relative;
+    margin-bottom: 3em;
 }

@@ -65,7 +65,7 @@ class MovieList extends Component {
                                 <img src={`https://image.tmdb.org/t/p/w300${item.poster_path}`} alt={item.title} />
                                 <p>ID: {item.id} </p>
                                 <p>Title: {item.title} </p>
-                                <button onClick={()=>this.callDetail(item)}> Detailed view </button>
+                                <button className="detailed" onClick={()=>this.callDetail(item)}> Detailed view </button>
                             </div>
                             
                         </div>
