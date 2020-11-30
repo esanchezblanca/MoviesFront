@@ -6,7 +6,7 @@ Proyecto que recrea la parte frontend con react de una app de películas.
 ![Logo](LogoMain.png)
 
 
-##Deploy
+## Deploy
 https://popularmoviesdb.herokuapp.com/
 
 ### Descripción y funcionamiento :hammer:
