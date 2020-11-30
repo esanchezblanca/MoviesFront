@@ -5,6 +5,10 @@ Proyecto que recrea la parte frontend con react de una app de películas.
 
 ![Logo](LogoMain.png)
 
+
+##Deploy
+https://popularmoviesdb.herokuapp.com/
+
 ### Descripción y funcionamiento :hammer:
 
 La app se abrirá por una página principal llamada Home en la que se ve un banner y un par de títulos.
