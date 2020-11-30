@@ -15,6 +15,6 @@ Al pulsar películas populares, el navegador nos sacará una lista de tres colum
 
 En esta nueva página podremos ver además de la información detallada anteriormente, el argumento y la fecha de lanzamiento. Existe un botón para regresar a la página del listado y otro en la propia página del listado que nos permite navegar por las páginas hacia delante y hacia atrás.
 
-## Licencia :page_with_curl
+## Licencia :page_with_curl:
 
 Este proyecto ha sido realizado por Elena Sánchez de la Blanca y está sujeto a la licencia MIT. Para obtener más información, por favor diríjase al archivo LICENSE que encontrará adjunto.
